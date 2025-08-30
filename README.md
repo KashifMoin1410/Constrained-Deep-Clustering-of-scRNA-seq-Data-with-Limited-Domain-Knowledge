@@ -110,7 +110,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Usage
+## Usage
 
 ### Step 1: Preprocess datasets
 Run the dataset-specific notebooks:  
