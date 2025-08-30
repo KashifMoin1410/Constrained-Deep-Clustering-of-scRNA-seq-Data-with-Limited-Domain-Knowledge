@@ -6,7 +6,7 @@ The central idea is to evaluate how **limited domain knowledge** (in the form of
 
 ---
 
-## 📑 Table of Contents
+## Table of Contents
 1. [Project Overview](#project-overview)  
 2. [Repository Structure](#repository-structure)  
 3. [Datasets](#datasets)  
@@ -17,7 +17,7 @@ The central idea is to evaluate how **limited domain knowledge** (in the form of
 
 ---
 
-## 📘 Project Overview
+## Project Overview
 Single-cell RNA sequencing (scRNA-seq) enables profiling of thousands of individual cells to study heterogeneity in tissues. However, clustering scRNA-seq data is challenging due to:  
 - **High dimensionality** (thousands of genes per cell),  
 - **Sparsity** (dropout zeros in expression values), and  
@@ -35,7 +35,7 @@ Single-cell RNA sequencing (scRNA-seq) enables profiling of thousands of individ
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 project/
@@ -72,7 +72,7 @@ project/
 
 ---
 
-## 📦 Datasets
+## Datasets
 The project uses four benchmark scRNA-seq datasets:
 
 - **Baron Human Pancreas (GSE84133):**  
@@ -136,7 +136,7 @@ Results are automatically saved in the `results/{dataset_name}/` folder.
 
 ---
 
-## 📊 Results
+## Results
 
 ### scDCC Performance Across Datasets
 
@@ -153,7 +153,7 @@ See the `results/` folder for comparative plots and UMAP visualizations.
 
 ---
 
-## 📧 Contact
+## Contact
 **Author:** Kashif Moin  
 - GitHub: [KashifMoin1410](https://github.com/KashifMoin1410)  
 - University of Manchester, MSc Advanced Computer Science (AI)  
